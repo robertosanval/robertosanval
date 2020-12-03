@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a #Backend developer. In love with #Symfony
+Web developer. #PHP #Symfony #Javascript #Vue ...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertosanval&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
