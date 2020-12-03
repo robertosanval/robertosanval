@@ -3,6 +3,8 @@ I'm a #Backend developer. In love with #Symfony
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertosanval&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertosanval&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **robertosanval/robertosanval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
